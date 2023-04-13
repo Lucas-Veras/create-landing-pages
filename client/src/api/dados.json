@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "attributes": {
+        "title": "Olha só a minha página ",
+        "slug": "olha-so-a-minha-pagina",
+        "createdAt": "2023-04-02T15:04:26.936Z",
+        "updatedAt": "2023-04-02T15:06:50.129Z",
+        "publishedAt": "2023-04-02T15:06:49.624Z",
+        "footer_text": "Feito com ❤ por Lucas Oliveira Véras",
+        "menu": {
+          "id": 1,
+          "logo_link": "#home",
+          "logo_text": "Logo",
+          "logo": {
+            "data": {
+              "id": 3,
+              "attributes": {
+                "name": "veolia-vector-logo.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 900,
+                "height": 500,
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dgecvzf8e/image/upload/v1680447753/small_veolia_vector_logo_fc123085d6.png",
+                    "hash": "small_veolia_vector_logo_fc123085d6",
+                    "mime": "image/png",
+                    "name": "small_veolia-vector-logo.png",
+                    "path": null,
+                    "size": 13.34,
+                    "width": 500,
+                    "height": 278,
+                    "provider_metadata": {
+                      "public_id": "small_veolia_vector_logo_fc123085d6",
+                      "resource_type": "image"
+                    }
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dgecvzf8e/image/upload/v1680447753/medium_veolia_vector_logo_fc123085d6.png",
+                    "hash": "medium_veolia_vector_logo_fc123085d6",
+                    "mime": "image/png",
+                    "name": "medium_veolia-vector-logo.png",
+                    "path": null,
+                    "size": 22.63,
+                    "width": 750,
+                    "height": 417,
+                    "provider_metadata": {
+                      "public_id": "medium_veolia_vector_logo_fc123085d6",
+                      "resource_type": "image"
+                    }
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dgecvzf8e/image/upload/v1680447752/thumbnail_veolia_vector_logo_fc123085d6.png",
+                    "hash": "thumbnail_veolia_vector_logo_fc123085d6",
+                    "mime": "image/png",
+                    "name": "thumbnail_veolia-vector-logo.png",
+                    "path": null,
+                    "size": 6.86,
+                    "width": 245,
+                    "height": 136,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_veolia_vector_logo_fc123085d6",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "veolia_vector_logo_fc123085d6",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 5.18,
+                "url": "https://res.cloudinary.com/dgecvzf8e/image/upload/v1680447752/veolia_vector_logo_fc123085d6.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "veolia_vector_logo_fc123085d6",
+                  "resource_type": "image"
+                },
+                "createdAt": "2023-04-02T15:02:34.512Z",
+                "updatedAt": "2023-04-02T15:02:34.512Z"
+              }
+            }
+          },
+          "menu_links": [
+            {
+              "id": 1,
+              "link_text": "intro",
+              "url": "#intro",
+              "open_in_new_tab": false
+            },
+            {
+              "id": 2,
+              "link_text": "grid-one",
+              "url": "#grid-one",
+              "open_in_new_tab": false
+            }
+          ]
+        },
+        "sections": [
+          {
+            "id": 1,
+            "__component": "section.section-two-columns",
+            "title": "JANUARY BRING US FIREFOX 85",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate doloribus sint repellat nihil eveniet vel fugit, minus harum accusamus dolore rem voluptatum, expedita, iusto totam incidunt. Animi quas amet quidem?",
+            "image": {
+              "data": {
+                "id": 2,
+                "attributes": {
+                  "name": "javascript-not-optimized.svg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1030,
+                  "height": 730,
+                  "formats": null,
+                  "hash": "javascript_not_optimized_57f3194bbd",
+                  "ext": ".svg",
+                  "mime": "image/svg+xml",
+                  "size": 36.76,
+                  "url": "https://res.cloudinary.com/dgecvzf8e/image/upload/v1680446947/javascript_not_optimized_57f3194bbd.svg",
+                  "previewUrl": null,
+                  "provider": "cloudinary",
+                  "provider_metadata": {
+                    "public_id": "javascript_not_optimized_57f3194bbd",
+                    "resource_type": "image"
+                  },
+                  "createdAt": "2023-04-02T14:49:10.035Z",
+                  "updatedAt": "2023-04-02T14:49:10.035Z"
+                }
+              }
+            },
+            "metadata": {
+              "id": 2,
+              "name": "home",
+              "section_id": "home",
+              "background": true
+            }
+          },
+          {
+            "id": 1,
+            "__component": "section.section-content",
+            "title": "NEWS COVERAGE AND SOME SURRISES",
+            "content": "Lorem ipsum dolor <u>sit amet consectetur</u> adipisicing elit. _Voluptate doloribus_ sint repellat nihil eveniet vel fugit, minus harum accusamus dolore rem voluptatum, expedita, iusto totam incidunt. **Animi quas amet quidem?**\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate doloribus sint repellat nihil eveniet vel fugit.\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate doloribus sint repellat nihil eveniet vel fugit.",
+            "metadata": {
+              "id": 1,
+              "name": "intro",
+              "section_id": "intro",
+              "background": false
+            }
+          },
+          {
+            "id": 1,
+            "__component": "section.section-grid",
+            "title": "MY GRID",
+            "description": "Uma breve descrição",
+            "text_grid": [
+              {
+                "id": 1,
+                "title": "Teste 1",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate doloribus sint repellat nihil eveniet vel fugit, minus harum accusamus dolore rem voluptatum, expedita, iusto totam incidunt. Animi quas amet quidem?"
+              },
+              {
+                "id": 2,
+                "title": "Teste 2",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate doloribus sint repellat nihil eveniet vel fugit, minus harum accusamus dolore rem voluptatum, expedita, iusto totam incidunt. Animi quas amet quidem?"
+              },
+              {
+                "id": 3,
+                "title": "Teste 3",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate doloribus sint repellat nihil eveniet vel fugit, minus harum accusamus dolore rem voluptatum, expedita, iusto totam incidunt. Animi quas amet quidem?"
+              }
+            ],
+            "image_grid": [
+
+            ],
+            "metadata": {
+              "id": 3,
+              "name": "grid-one",
+              "section_id": "grid-one",
+              "background": true
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 1
+    }
+  }
+}
