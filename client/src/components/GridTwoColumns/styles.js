@@ -29,4 +29,6 @@ export const TextContainer = styled.div`
 
 export const ImageContainer = styled.div``;
 
-export const Image = styled.img``;
+export const Image = styled.img`
+  width: 100%;
+`;
