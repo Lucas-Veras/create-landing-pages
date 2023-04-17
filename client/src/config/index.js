@@ -1,5 +1,5 @@
 export default {
-  url: `http://localhost:1337/api/pages/?populate=deep`,
+  url: `https://create-landing-pages-app.onrender.com/api/pages/?populate=deep`,
   siteName: "Lucas oliveira",
   defaultSlug: 'landing-page'
 }
